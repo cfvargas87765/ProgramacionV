@@ -1,0 +1,3 @@
+Consultar estudiante por ID
+Listar estudiantes
+Buscar estudiante
