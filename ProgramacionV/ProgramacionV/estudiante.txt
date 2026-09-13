@@ -1,3 +1,4 @@
 Nombre
 Apellido
 Telefono
+Validacion: Solo numeros
